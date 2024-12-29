@@ -83,22 +83,28 @@ spring-boot-starter-mail | 3.2.1
 #### ▼ 실행 이미지
 
 
-회원가입
+- 회원가입
+- 
 ![스크린샷 2024-12-29 221939](https://github.com/user-attachments/assets/f8b5b15f-0cce-4092-a419-20e164571223)
 
-이메일 인증
+- 이메일 인증
+- 
 ![스크린샷 2024-12-29 222315](https://github.com/user-attachments/assets/48ecd1e9-a4fa-4e0e-8152-11a6bf9f0563)
 
-로그인
+- 로그인
+- 
 ![스크린샷 2024-12-29 221107](https://github.com/user-attachments/assets/5556e6a4-b9e2-408e-b5e7-0f1b317091ad)
 
-게시물 테스트
+- 게시물 테스트
+- 
 ![스크린샷 2024-12-29 222343](https://github.com/user-attachments/assets/b9a43ff0-62e0-49c5-afc8-8ef1226c811b)
 
-게시물 작성성공
+- 게시물 작성성공
+- 
 ![스크린샷 2024-12-29 222406](https://github.com/user-attachments/assets/fd9c7962-d974-4ebc-b9d5-a3902ab811a1)
 
-댓글 작성
+- 댓글 작성
+- 
 ![스크린샷 2024-12-29 222431](https://github.com/user-attachments/assets/fa8400f3-7adb-49a7-bb50-0eafe648c9fe)
 
 
